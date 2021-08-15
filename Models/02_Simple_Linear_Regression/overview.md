@@ -4,6 +4,8 @@ y --> dependent variable </br>
 x --> independent variable </br>
 b --> co-efficient<\br>
 </br>
+
+
 Training Result</br>
 ![image](https://user-images.githubusercontent.com/70283754/129471746-9af1f0c0-648c-4223-bed9-31826669ccc0.png)
 </br>
