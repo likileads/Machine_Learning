@@ -50,6 +50,8 @@ transformation (here, Imputer will replace the missing value by the mean).
 
 <br>
 
+- - - - -
+
 ## Encoding categorical data
 > In Python, what do the two ’fit_transform’ methods do?
 
@@ -59,6 +61,8 @@ the ’fit_transform()’ method is called from the OneHotEncoder() class, it cr
 different labels with binary values 0 and 1. Those separate columns are the dummy variables.
 
 <br>
+
+- - - - -
 
 ## Splitting the dataset into the Training set and Test set
 > What is the difference between the training set and the test set?
@@ -79,6 +83,8 @@ example if we only had the same value of the dependent variable in the training 
 able to learn any correlation between the independent and dependent variables.
 
 <br>
+
+- - - - -
 
 ## Feature scaling
 
