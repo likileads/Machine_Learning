@@ -13,6 +13,7 @@ y --> dependent variable vector (last column)
 The independent variables are the input data that you have, with each you want to predict something. That
 something is the dependent variable.
 
+<br>
 > In Python, why do we create X and y separately?
 
 Because we want to work with Numpy arrays, instead of Pandas dataframes. Numpy arrays are the most
@@ -20,6 +21,7 @@ convenient format to work with when doing data preprocessing and building Machin
 we create two separate arrays, one that contains our independent variables (also called the input features),
 and another one that contains our dependent variable (what we want to predict).
 
+<br>
 > In Python, what does ’iloc’ exactly do?
 
 It locates the column by its index. In other words, using ’iloc’ allows us to take columns by just taking their
