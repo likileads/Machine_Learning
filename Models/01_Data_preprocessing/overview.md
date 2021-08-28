@@ -5,7 +5,7 @@ Each row belong to different customers and includes customer name, age, salary a
 x --> freatures  (first three colums) </br>
 y --> dependent variable vector (last column)
 
-
+- - - - -
 
 ## Intuition
 > What is the difference between the independent variables and the dependent variable?<br>
