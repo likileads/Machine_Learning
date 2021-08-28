@@ -9,5 +9,6 @@ y --> dependent variable vector (last column)
 
 ## Intution
 > What is the difference between the independent variables and the dependent variable?<br>
+
 The independent variables are the input data that you have, with each you want to predict something. That
 something is the dependent variable.
