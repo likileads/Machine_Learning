@@ -37,7 +37,9 @@ It returns the values of the columns you are taking (by their index) inside a Nu
 how X and y become Numpy arrays
 
 <br>
+
 - - - - -
+
 ## Taking care of missing data
 > In Python, what is the difference between fit and transform?
 
